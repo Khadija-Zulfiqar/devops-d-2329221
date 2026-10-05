@@ -1,0 +1,8 @@
+GitHub Repository:
+https://github.com/Khadija-Zulfiqar/devops-d-2329221
+
+GitHub Pages:
+https://khadija-zulfiqar.github.io/devops-d-2329221/
+
+Docker Website:
+http://localhost:8080
